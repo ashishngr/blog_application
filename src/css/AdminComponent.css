@@ -1,0 +1,9 @@
+.addPost{
+    float: left;
+    width: 40%;
+
+}
+.postList{
+    float: right;
+    width: 50%;
+}
